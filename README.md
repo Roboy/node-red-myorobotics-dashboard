@@ -14,5 +14,5 @@ Installation:
 
 Usage
 1. `node-red`
-2. Navigate to http://your_ip:1880 to edit the flows
-3. Navigate to http://your_ip:1880/ui to see the GUI
+2. Navigate to `http://your_ip:1880` to edit the flows
+3. Navigate to `http://your_ip:1880/ui` to see the GUI
